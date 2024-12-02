@@ -1,10 +1,4 @@
 /*********************************************************************
- * DF Pong Controller: 
- * 
- * This program implements a Bluetooth Low Energy controller for Pong.
- * It sends movement data to a central device running in the browser and
- * provides audio feedback through a buzzer.
- * 
  * IMU sensor reading and orientation tracking
  * 
  * Uses the SensorFusion library to transform the raw values into degrees
